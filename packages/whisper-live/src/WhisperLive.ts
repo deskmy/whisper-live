@@ -13,7 +13,7 @@ export class WhisperLive {
 	}
 
 	stop() {
-		this.instance.stopRecording();
+		return this.instance.stopRecording();
 	}
 
 	onTranscript(cb: (text: string) => void) {
