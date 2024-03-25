@@ -1,0 +1,1 @@
+{"version":3,"file":"WhisperLive.d.ts","sourceRoot":"","sources":["../../../packages/whisper-live/src/WhisperLive.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,iBAAiB,EAAE,MAAM,SAAS,CAAC;AAE5C,qBAAa,WAAW;IACvB,OAAO,CAAC,QAAQ,CAAkB;gBAEtB,MAAM,EAAE,iBAAiB;IAIrC,KAAK;IAIL,IAAI;IAIJ,YAAY,CAAC,EAAE,EAAE,CAAC,IAAI,EAAE,MAAM,KAAK,IAAI;CAGvC"}
